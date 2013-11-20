@@ -1,0 +1,5 @@
+[Plugin]
+name=math
+palette=math
+comment=Advanced mathematical functions
+version=1
