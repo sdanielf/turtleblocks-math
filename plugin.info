@@ -1,5 +1,5 @@
 [Plugin]
-name=math
+name=math_plugin
 palette=math
 comment=Advanced mathematical functions
 version=2
